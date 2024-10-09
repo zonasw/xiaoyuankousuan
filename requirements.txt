@@ -1,0 +1,5 @@
+numpy==1.23.5
+onnxruntime
+opencv-python-headless==4.10.0.84
+pygetwindow==0.0.9
+pynput==1.7.6

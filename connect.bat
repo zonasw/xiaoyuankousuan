@@ -1,0 +1,1 @@
+scrcpy --max-size 960
